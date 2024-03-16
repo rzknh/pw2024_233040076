@@ -4,7 +4,7 @@ $mahasiswa = [
     [//1.
         "nrp" => "233040076",
         "nama" => "Rizkhi Nurhidayat",
-        "email" => "danny221004@mail.unpas.ac.id",
+        "email" => "rizkhinurhidayat13@gmail.com",
         "jurusan" => "Teknik Informatika"
     ],
     [//2.    
