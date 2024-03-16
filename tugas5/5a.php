@@ -1,18 +1,17 @@
-<?php 
-
+<?php
 $mahasiswa = [
     [//1.
-        "nrp" => "233040076",
-        "nama" => "Rizkhi Nurhidayat",
+        "nrp" => "223040165",
+        "nama" => "Rizkhi Nurhidayat,
         "email" => "rizkhinurhidayat13@gmail.com",
         "jurusan" => "Teknik Informatika"
     ],
     [//2.    
         "nrp" => "223040164",
-        "nama" => "Malik Ibrahim",
-        "email" => "Malik.223040164@mail.unpas.ac.id",
+        "nama" => "Herdy Sya'banul Hakim",
+        "email" => "herdy.223040164@mail.unpas.ac.id",
         "jurusan" => "Teknik Informatika"
-    ],s
+    ],
     [//3.
         "nrp" => "223040166",
         "nama" => "Muhamad Rinaldi Agus Pratama",
@@ -61,7 +60,7 @@ $mahasiswa = [
         "email" => "aditya.223040159@mail.unpas.ac.id",
         "jurusan" => "Teknik Informatika"
     ]
-
+    
 ]
 
 ?>
