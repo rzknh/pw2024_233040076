@@ -2,9 +2,9 @@
 
 $mahasiswa = [
     [//1.
-        "nrp" => "223040165",
-        "nama" => "Ilman Hanifa",
-        "email" => "ilman.223040165@mail.unpas.ac.id",
+        "nrp" => "233040076",
+        "nama" => "Rizkhi Nurhidayat",
+        "email" => "rizkhinurhidayat13@gmail.com",
         "jurusan" => "Teknik Informatika"
     ],
     [//2.    
